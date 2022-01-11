@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should display the provided character 1`] = `
+<div>
+  <figure>
+    <img
+      alt="Ted"
+      src="https://placebear.com/200/300"
+    />
+    <figcaption>
+      <h3>
+        Ted
+      </h3>
+      <p>
+        bear
+      </p>
+      <p>
+        Status: 
+        Alive
+      </p>
+    </figcaption>
+  </figure>
+</div>
+`;
