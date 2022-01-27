@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should display a list of characters 1`] = `
+<div>
+  <ul
+    aria-label="characters"
+    class="list"
+  >
+    <li
+      class="item"
+    >
+      <a
+        href="/characters/undefined"
+      >
+        <figure>
+          <img
+            alt="Ted"
+            class="image"
+            src="https://placebear.com/200/300"
+          />
+          <figcaption
+            class="linkText"
+          >
+            Ted
+          </figcaption>
+        </figure>
+      </a>
+    </li>
+  </ul>
+</div>
+`;
